@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum hometask", "Enum hometask\Enum hometask.csproj", "{C9C89030-DF10-40FD-AE96-FD96DB58C58D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9C89030-DF10-40FD-AE96-FD96DB58C58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C89030-DF10-40FD-AE96-FD96DB58C58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C89030-DF10-40FD-AE96-FD96DB58C58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C89030-DF10-40FD-AE96-FD96DB58C58D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A16B9C41-E387-4214-A220-A3F066083735}
+	EndGlobalSection
+EndGlobal
